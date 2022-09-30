@@ -1,8 +1,6 @@
-👋 Hi, I’m Nitish Kumar Jena😎
-👀 I’m interested in sharpening my skills✨
-🌱 I’m currently learning everything🤪
-💞️ I’m looking to collaborate on something really awesome🤩
-📫 Reach me at jenanitish490@gmail.com🚗
+- 👋 Hi, I’m Nitish Kumar Jena😎
+- 🌱 I’m currently learning different techologies🤪
+- 📫 Reach me at jenanitish490@gmil.com🚗
 <!--
 **Nitish490388/Nitish490388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
