@@ -41,7 +41,6 @@
 * Zod Validation
 * Cloudinary Media Management
 * Building Scalable Frontend Modules
-* Working on National-Level Projects (Sales Report System)
 
 ---
 
